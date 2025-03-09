@@ -12,5 +12,6 @@ We wrote a script to generate random mutants of the PETase amino acid sequence. 
 
 This repo contains the script to generate the mutated sequences XGBoost, and linear regression notebooks. 
 
+You will also find a script called esm.py, which loads the ESM-2 model to find the sequences with the lowest Km values and associate them as the best evolutionary candidate. 
 
 
